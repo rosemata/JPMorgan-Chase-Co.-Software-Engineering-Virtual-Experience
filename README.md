@@ -1,5 +1,21 @@
 # JPMorgan-Chase-Co.-Software-Engineering-Virtual-Experience
 
+What I learned:
+
+- Clone projects from:
+
+https://github.com/insidesherpa/JPMC-tech-task-1-PY3
+
+https://github.com/insidesherpa/JPMC-tech-task-2-PY3
+
+https://github.com/insidesherpa/JPMC-tech-task-3-PY3
+
+- Set-up environment such as installing python3, pip, npm, nvm, brew, 
+
+- Run server and client applications
+
+- Submit changes by performing git commands and downloading patch file
+
 <img width="996" alt="Screen Shot 2022-08-09 at 8 33 29 PM" src="https://user-images.githubusercontent.com/93716153/183791078-008a5b91-d366-4ff7-8aef-74d76fc0999e.png">
 
 # Task 1: Interface with a stock price data feed

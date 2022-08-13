@@ -12,7 +12,7 @@ https://github.com/insidesherpa/JPMC-tech-task-2-PY3
 
 https://github.com/insidesherpa/JPMC-tech-task-3-PY3
 
-- Set-up environment such as installing python3, pip, npm, nvm, brew, 
+- Set-up environment such as installing python3, pip, npm, nvm, brew, using curl and wget commands
 
 - Run server and client applications
 

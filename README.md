@@ -1,5 +1,7 @@
 # JPMorgan-Chase-Co.-Software-Engineering-Virtual-Experience
 
+<img width="996" alt="Screen Shot 2022-08-09 at 8 33 29 PM" src="https://user-images.githubusercontent.com/93716153/183791078-008a5b91-d366-4ff7-8aef-74d76fc0999e.png">
+
 # Task 1: Interface with a stock price data feed
 Financial Data, Python, Git, Basic Programming
 
@@ -46,7 +48,3 @@ Given there is a lot of information and data being produced at once, visualizing
 * Being familiar with python scripting language, command line basics, javascript, react and typescript are not required for this task too as you will be guided in this exercise
 
 * (Note, you DO NOT have to install Perspective as an individual software onto your machine. All you need to complete this task is to follow the instructions in step 3)
-
-
-
-<img width="996" alt="Screen Shot 2022-08-09 at 8 33 29 PM" src="https://user-images.githubusercontent.com/93716153/183791078-008a5b91-d366-4ff7-8aef-74d76fc0999e.png">

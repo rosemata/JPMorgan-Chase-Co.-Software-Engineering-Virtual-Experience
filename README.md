@@ -56,6 +56,10 @@ Perspective provides a set of flexible data transforms, such as pivots, filters,
 * (Note, you DO NOT have to install Perspective as an individual software onto your machine. All you need to complete this task is to follow the instructions in step 3)
 
 # Task 3: Display data visually for traders
+
+![](https://i.imgur.com/rkwhQbv.gif)
+
+
 Technical Communication, Financial Analysis, Web Applications
 
 Being able to access and  adjust data feeds is critical to any trading analysis and stock price monitoring. From the previous tasks, we now have the adjusted data set up on your systems and being piped into Perspective.
@@ -69,3 +73,4 @@ Given there is a lot of information and data being produced at once, visualizing
 * Being familiar with python scripting language, command line basics, javascript, react and typescript are not required for this task too as you will be guided in this exercise
 
 * (Note, you DO NOT have to install Perspective as an individual software onto your machine. All you need to complete this task is to follow the instructions in step 3)
+
